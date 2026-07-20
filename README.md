@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=reinharddev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=reinharddev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=reinharddev&theme=dark&hide_border=false&include_all_commits=true&coun
 
 ---
 [![](https://komarev.com/ghpvc/?username=reinharddev&icon=9&color=1)](https://visitcount.itsvg.in)
